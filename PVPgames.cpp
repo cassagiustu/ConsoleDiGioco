@@ -20,7 +20,7 @@ void f4F(int a, char A[6][7]);
 void posizionibotF(char A[6][7], int seme);
 void bot1F(int a, char A[6][7]);
 
-
+//prova
 int main()
 {
 	int n,f,m, ris, punti;
